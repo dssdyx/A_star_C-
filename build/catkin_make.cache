@@ -1,0 +1,2 @@
+grid_path_searcher:rviz_plugins:waypoint_generator
+-DCATKIN_DEVEL_PREFIX=/home/amov/motion_planning/P_ws/devel -DCMAKE_INSTALL_PREFIX=/home/amov/motion_planning/P_ws/install -G Unix Makefiles
